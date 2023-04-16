@@ -8,6 +8,7 @@
 		<version>3.0.2</version>
 		<relativePath/>
 		<!-- changes by Rahul -->
+                <!-- changes by Rahul Dengale -->
 	</parent>
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>SpringDataJPAFirstApp</artifactId>
