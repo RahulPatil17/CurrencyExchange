@@ -6,7 +6,8 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
+		<!-- changes by Rahul -->
 	</parent>
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>SpringDataJPAFirstApp</artifactId>
